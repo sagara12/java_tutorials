@@ -10,7 +10,7 @@ public class RealBasic {
 
 		String result = sum("1", "2");
 		
-		String[] str = spliter(123);
+		String[] str = spliter(98787);
 		System.out.println(Arrays.toString(str));
 	}
 	
@@ -24,7 +24,7 @@ public class RealBasic {
 	public static String[] spliter(int a) {
 		String str = String.valueOf(a);
 		int length = str.length();
-		System.out.println(length);
+		//System.out.println(length);
 		String[] result = new String[length];
 		
 		int index = 0;
