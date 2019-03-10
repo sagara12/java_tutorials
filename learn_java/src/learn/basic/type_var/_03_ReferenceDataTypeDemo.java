@@ -28,6 +28,10 @@ public class _03_ReferenceDataTypeDemo {
         person.name="김철수";
     }
 
+    // String class
+    // Reference Type
+    // 그러나, message 변수로 전달되는 것은 실제 객체로 접근할 수 있는 주소
+    // message 에 담긴 값을 다른 객체를 가르키는 주소값으로 함수 내에서 변경
     private static void changeMessage(String message) {
         message = "Python Programming";
     }

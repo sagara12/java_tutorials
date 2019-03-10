@@ -1,4 +1,4 @@
-package learn.learn.basic;
+package learn.basic;
 
 public class FirstBasicDemo {
     public static void main(String[] args) {

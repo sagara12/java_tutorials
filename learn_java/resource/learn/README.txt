@@ -3,6 +3,8 @@
 목차
 1. basic
   - type/var
+  - operators
+
 2. class
 3. abstract
 4. io
